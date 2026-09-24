@@ -83,7 +83,7 @@
 </div> 
 
 
-![Snake animation](https://github.com/mehdi-elouissi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mehdi-elouissi/mehdi-elouissi/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
