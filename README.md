@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dadixcod/">
+  <a href="https://www.linkedin.com/in/elmehdi-elouissi">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"/>
   </a>
 
@@ -10,7 +10,7 @@
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" />
   </a>
 
-  <a href="https://dadixcod.vercel.app">
+  <a href="https://mehdi-elouissi.github.io">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-512.png" />
   </a>
 </div>
@@ -19,21 +19,21 @@
 
 <div align="center">
 
-💡 Passionate **Software Engineer** specialized in **Mobile Development (Flutter, Dart, Clean Architecture)** and **Fullstack Solutions**.  
+💡 Passionate **Software Engineer** specialized in **Mobile Development (Flutter, Dart, Clean Architecture)** and **Fullstack Solutions (Spring Boot, Angular)**.  
 🎯 I focus on building **scalable, performant, and user-friendly applications** with attention to detail & clean code principles.  
 
 ---
 
 ### 🛠️ What I Do
 - 📱 Cross-platform apps with **Flutter**
-- 🗄️ Backend APIs with **Spring Boot/ Node.js / Express / Nest / MongoDB**
+- 🗄️ Backend APIs with **Spring Boot/  ExpressJS**
 - 🎨 UI/UX with **modern & responsive design**
 - ⚡ Clean Architecture, SOLID, Testing & Best Practices  
 
 ---
 
 ### 🌱 Currently
-- 🚀 Growing my expertise in **AI-powered apps**
+- 🚀 Growing my expertise in **High Scale Applications**
 - 📚 Learning & sharing knowledge through projects and posts
 - 🤝 Open to **collaborations & freelance opportunities**
 
@@ -56,14 +56,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45"/>
+
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
@@ -86,7 +83,7 @@
 </div> 
 
 
-![Snake animation](https://github.com/dadixcod/dadixCod/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mehdi-elouissi/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
