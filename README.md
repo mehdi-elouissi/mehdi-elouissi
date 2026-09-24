@@ -76,11 +76,9 @@
 <h2>  &nbsp;My Github History</h2>
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dadixCod&show_icons=true&theme=merko" alt="Mehdi's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-elouissi&layout=compact&theme=radical" alt="Top Langs"/>
-
-</div> 
+  <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Mehdi's GitHub stats"/>
+  <img height="180em" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Langs"/>
+</div>
 
 
 <picture>
