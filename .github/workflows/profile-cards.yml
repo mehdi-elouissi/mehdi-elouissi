@@ -18,4 +18,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_PAT }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          EXCLUDE: "HTML,C++,Typescript,CSS,Jupyter Notebook,Tex,Smalltalk"
+          EXCLUDE: "HTML,C++,Typescript,CSS,Jupyter Notebook,TeX,Smalltalk"
