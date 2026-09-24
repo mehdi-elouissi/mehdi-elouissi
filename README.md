@@ -83,7 +83,10 @@
 </div> 
 
 
-![Snake animation](https://github.com/mehdi-elouissi/mehdi-elouissi/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehdi-elouissi/mehdi-elouissi/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mehdi-elouissi/mehdi-elouissi/output/github-snake.svg" />
+</picture>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
