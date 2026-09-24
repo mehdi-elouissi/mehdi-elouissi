@@ -76,8 +76,9 @@
 <h2>  &nbsp;My Github History</h2>
 
 <div align="center">
-  <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Mehdi's GitHub stats"/>
-  <img height="180em" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Langs"/>
+  <img height="180em" src="./profile-summary-card-output/gotham/0-profile-details.svg" alt="Mehdi's Profile Details"/>
+  <img height="180em" src="./profile-summary-card-output/gotham/3-stats.svg" alt="Mehdi's GitHub stats"/>
+  <img height="180em" src="./profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Top Langs"/>
 </div>
 
 
