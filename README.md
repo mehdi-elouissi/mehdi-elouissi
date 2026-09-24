@@ -75,10 +75,10 @@
 ``
 <h2>  &nbsp;My Github History</h2>
 
-<div align-items="between">
+<div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dadixCod&show_icons=true&theme=merko" alt="Mehdi's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadixCod&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-elouissi&layout=compact&theme=radical" alt="Top Langs"/>
 
 </div> 
 
